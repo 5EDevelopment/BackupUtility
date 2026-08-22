@@ -6,6 +6,7 @@ TYPE: Windows Console Application (.exe)
 VERSION: 1.0.0
 ======================================================================
 ![image alt](https://github.com/5EDevelopment/BackupUtility/blob/0989da1c1a11fa6e43cf15d7fb53b3e74d86bfe2/BUModule.jpg)
+
 ----------------------------------------------------------------------
 1. ABOUT THE TOOL
 An all-in-one preparation suite designed to run before formatting, 
