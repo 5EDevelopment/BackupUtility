@@ -1,10 +1,7 @@
 # BackupUtility
-All-in-one preparation suite before formatting an Windows OS
+All-in-one preparation suite before formatting/staging an Windows OS
 ======================================================================
-PROJECT TITLE: 5ED Backup Utility for Windows
-TYPE: Windows Console Application (.exe)
-VERSION: 1.0.0
-======================================================================
+
 ![image alt](https://github.com/5EDevelopment/BackupUtility/blob/0989da1c1a11fa6e43cf15d7fb53b3e74d86bfe2/BUModule.jpg)
 
 ----------------------------------------------------------------------
