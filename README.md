@@ -19,6 +19,7 @@ System Administrators, and Power Users.
 - Windows Activation: View, backup, and restore your license keys.
 - Full System Image: Create a comprehensive backup of the OS state.
 - 3-in-1 Toolkit: A bundled pre-reinstall bundle for speed.
+- Full System Specifications profile backup.
 
 ----------------------------------------------------------------------
 3. SYSTEM REQUIREMENTS & PRIVILEGES
