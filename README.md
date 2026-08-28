@@ -2,7 +2,7 @@
 All-in-one preparation suite before formatting/staging an Windows OS
 ======================================================================
 
-![image alt](https://github.com/5EDevelopment/BackupUtility/blob/0989da1c1a11fa6e43cf15d7fb53b3e74d86bfe2/BUModule.jpg)
+![image alt](https://github.com/5EDevelopment/BackupUtility/blob/main/5EDBUModule.png)
 
 ----------------------------------------------------------------------
 1. ABOUT THE TOOL
