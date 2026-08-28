@@ -9,7 +9,8 @@ All-in-one preparation suite before formatting/staging an Windows OS
 An all-in-one preparation suite designed to run before formatting, 
 staging, or clean-installing an operating system. This utility 
 automates critical data preservation tasks through a simple 
-command-line menu interface.
+command-line menu interface, built specifically for IT Technicians,
+System Administrators, and Power Users.
 
 ----------------------------------------------------------------------
 2. KEY FEATURES
