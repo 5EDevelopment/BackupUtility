@@ -2,7 +2,7 @@
 All-in-one preparation suite before formatting/staging an Windows OS
 ======================================================================
 
-![image alt](https://github.com/5EDevelopment/BackupUtility/blob/main/5EDBUModule.png)
+![image alt](https://github.com/5EDevelopment/BackupUtility/blob/main/5EDBU.PNG))
 
 ----------------------------------------------------------------------
 1. ABOUT THE TOOL
@@ -20,6 +20,7 @@ System Administrators, and Power Users.
 - Full System Image: Create a comprehensive backup of the OS state.
 - 3-in-1 Toolkit: A bundled pre-reinstall bundle for speed.
 - Full System Specifications profile backup.
+- Backup Bitlocker Keys.
 
 ----------------------------------------------------------------------
 3. SYSTEM REQUIREMENTS & PRIVILEGES
