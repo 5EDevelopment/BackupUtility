@@ -1,4 +1,4 @@
-# 5EDBackupUtility
+# BackupUtility
 All-in-one preparation suite before formatting/staging an Windows OS
 ======================================================================
 
