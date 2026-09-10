@@ -1,10 +1,8 @@
 # 5ED Backup Utility
-[![OS - Windows](https://shields.io)](https://microsoft.com)
-[![Privileges - Admin](https://shields.io)](#system-requirements--privileges)
 
 An all-in-one preparation suite for formatting and staging Windows OS environments.
 
-![5ED Backup Utility Interface]([https://github.com](https://github.com/5EDevelopment/BackupUtility/blob/main/5EDBUv1.0.0.6.PNG))
+![5ED Backup Utility Interface](https://githubusercontent.com)
 
 ---
 
