@@ -1,4 +1,8 @@
 # 5ED Backup Utility
+# 5ED Backup Utility
+[![OS - Windows](https://shields.io)](https://microsoft.com)
+[![Privileges - Admin](https://shields.io)](#system-requirements--privileges)
+[![License - MIT](https://shields.io)](LICENSE)
 
 An all-in-one preparation suite for formatting and staging Windows OS environments.
 
