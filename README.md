@@ -5,7 +5,7 @@
 
 An all-in-one preparation suite for formatting and staging Windows OS environments.
 
-![5ED Backup Utility Interface](v1.0.0.7.png)
+![https://github.com/5EDevelopment/BackupUtility/blob/main/BackupUtility.png)
 
 ---
 
