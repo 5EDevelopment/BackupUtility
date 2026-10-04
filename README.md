@@ -5,7 +5,7 @@
 
 An all-in-one preparation suite for formatting and staging Windows OS environments.
 
-![(https://github.com/5EDevelopment/BackupUtility/blob/main/BackupUtility.png)
+[!(https://github.com/5EDevelopment/BackupUtility/blob/main/BackupUtility.png)
 
 ---
 
